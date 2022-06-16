@@ -1,0 +1,51 @@
+theme: hugo-theme-singular
+baseURL: https://mkmiecik14.github.io/singular
+title: Singular
+copyright: Copyright License [GNU General Public License v2 or later](http://www.gnu.org/licenses/gpl-2.0.html)
+languageCode: en
+DefaultContentLanguage: en
+paginate: 3
+enableInlineShortcodes: yes
+pygmentsCodefences: yes
+ignoreErrors: error-remote-getjson
+params:
+  description: Simple and clean theme for hugo
+  logo:
+    url: /images/icon.jpg
+markup:
+  highlight:
+    codeFences: yes
+    noClasses: yes
+    style: github
+permalinks:
+  page: /:filename/
+  post: /:year/:month/:day/:filename/
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
+privacy:
+  instagram:
+    disabled: no
+    simple: yes
+  twitter:
+    disabled: no
+    enableDNT: yes
+    simple: yes
+  vimeo:
+    disabled: no
+    simple: yes
+  youtube:
+    disabled: no
+    privacyEnhanced: yes
+services:
+  instagram:
+    disableInlineCSS: yes
+  twitter:
+    disableInlineCSS: yes

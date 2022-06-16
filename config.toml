@@ -1,6 +1,6 @@
 timeout = 30000
 enableInlineShortcodes = true
-baseURL = https://mattkmiecik.com/singular/
+relativeURLs = true
 
 [taxonomies]
 category = "categories"

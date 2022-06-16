@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <base href="../../">
+    <title> Hello R Markdown </title>
+    <link rel="canonical" href="../../post/2020-12-01-r-rmarkdown/">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="alternate" type="application/rss+xml" href="../../index.xml" title="">
+
+    
+
+    
+      
+      
+      <link rel="stylesheet" href="../../css/singular.min.011ac04cdcc95d18a28fa60ea533fd3c30de4c726107ef0be63a9d6691c00bdf.css" integrity="sha256-ARrATNzJXRiij6YOpTP9PDDeTHJhB&#43;8L5jqdZpHAC98=" crossorigin="anonymous" media="screen" />
+    
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400i%2C700%2C700i%2C800%2C800i&subset=latin%2Clatin-ext' rel='stylesheet'>
+
+    <link rel="stylesheet" href=../../css/custom.css media="screen">
+
+    
+
+    
+  
+
+
+</head>
+<body><header id="masthead" class="site-header">
+  <div class="site-header__branding site-branding">
+
+    <div class="site-branding__logo site-logo site-logo--rounded">
+      <a class="custom-logo-link" rel="home" itemprop="url" href="">
+        <img width="96" height="96" src="../../">
+      </a>
+    </div>
+
+    <div class="site-branding__copy">
+      <h1 class="site-title"><a href="../../" rel="home"></a></h1>
+      <p class="site-description"></p>
+    </div>
+
+  </div>
+</header>
+<div class="site-main content">
+<article>
+  <header class="entry-header">
+    <h1 class="entry-title">Hello R Markdown</h1>
+  </header>
+
+    <div class="entry-meta entry-meta-before-content">
+      <span class="entry-meta-item posted-on">
+        <a href="../../post/2020-12-01-r-rmarkdown/">
+          <time class="entry-date published" datetime="2020-12-02T02:13:14&#43;0000">December 1, 2020</time>
+        </a>
+      </span>
+    </div>
+
+	<div class="entry-content">
+    
+
+
+<div id="r-markdown" class="section level1">
+<h1>R Markdown</h1>
+<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
+<p>You can embed an R code chunk like this:</p>
+<pre class="r"><code>summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932</code></pre>
+</div>
+<div id="including-plots" class="section level1">
+<h1>Including Plots</h1>
+<p>You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:</p>
+<pre class="r"><code>par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&#39;Sky&#39;, &#39;Sunny side of pyramid&#39;, &#39;Shady side of pyramid&#39;),
+  col = c(&#39;#0292D8&#39;, &#39;#F7EA39&#39;, &#39;#C4B632&#39;),
+  init.angle = -50, border = NA
+)</code></pre>
+<div class="figure"><span style="display:block;" id="fig:pie"></span>
+<img src="../../post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
+<p class="caption">
+Figure 1: A fancy pie chart.
+</p>
+</div>
+</div>
+
+  </div>
+
+  
+  <nav class="navigation post-navigation" role="navigation" aria-label="Posts navigation">
+    <h2 class="screen-reader-text">Posts navigation</h2>
+    <div class="nav-links">
+      
+      
+      <div class="nav-pre">
+        <span>Older Post </span>
+        <a href="../../post/markdown-syntax/" rel="prev">Markdown Syntax Guide</a>
+      </div>
+      
+    </div>
+  </nav>
+  
+
+</article>
+
+        </div><footer id="colophon" class="site-footer" role="contentinfo">
+  <div class="site-footer__copy site-copy">
+    
+  </div>
+</footer>
+</body>
+</html>

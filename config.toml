@@ -28,3 +28,8 @@ series = "series"
   [privacy.youtube]
     disabled = false
     privacyEnhanced = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

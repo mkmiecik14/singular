@@ -1,6 +1,6 @@
 timeout = 30000
 enableInlineShortcodes = true
-relativeurls = true
+relativeURLs = true
 
 [taxonomies]
 category = "categories"

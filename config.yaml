@@ -8,6 +8,10 @@ paginate: 3
 enableInlineShortcodes: yes
 pygmentsCodefences: yes
 ignoreErrors: error-remote-getjson
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
 params:
   description: Simple and clean theme for hugo
   logo:
@@ -17,6 +21,9 @@ markup:
     codeFences: yes
     noClasses: yes
     style: github
+  goldmark:
+    renderer:
+      unsafe: true
 permalinks:
   page: :filename/
   post: :year/:month/:day/:filename/

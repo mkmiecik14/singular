@@ -1,35 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on </title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on </description>
+    <title>Categories on Singular</title>
+    <link>https://mkmiecik14.github.io/singular/categories/</link>
+    <description>Recent content in Categories on Singular</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright License [GNU General Public License v2 or later](http://www.gnu.org/licenses/gpl-2.0.html)</copyright>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://mkmiecik14.github.io/singular/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>R</title>
-      <link>/categories/r/</link>
+      <link>https://mkmiecik14.github.io/singular/categories/r/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>/categories/r/</guid>
+      <guid>https://mkmiecik14.github.io/singular/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax</title>
-      <link>/categories/syntax/</link>
+      <link>https://mkmiecik14.github.io/singular/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/syntax/</guid>
+      <guid>https://mkmiecik14.github.io/singular/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>/categories/themes/</link>
+      <link>https://mkmiecik14.github.io/singular/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/themes/</guid>
+      <guid>https://mkmiecik14.github.io/singular/categories/themes/</guid>
       <description></description>
     </item>
     

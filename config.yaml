@@ -1,5 +1,5 @@
 theme: hugo-theme-singular
-baseURL: https://mkmiecik14.github.io/singular/
+baseURL: https://mkmiecik14.github.io/singular
 title: Singular
 copyright: Copyright License [GNU General Public License v2 or later](http://www.gnu.org/licenses/gpl-2.0.html)
 languageCode: en

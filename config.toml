@@ -2,7 +2,7 @@
 themesDir = "/themes/"
 
 # Use singular theme
-theme = "hugo-theme-singular"
+theme = "singular"
 
 # Site Base Information
 baseURL = "https://mkmiecik14.github.io/singular/"

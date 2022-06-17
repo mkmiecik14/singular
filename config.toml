@@ -1,4 +1,4 @@
-baseurl = "https://mkmiecik14.github.io/singular"
+baseurl = "https://mkmiecik14.github.io/singular/"
 timeout = 30000
 enableInlineShortcodes = true
 relativeURLs = true

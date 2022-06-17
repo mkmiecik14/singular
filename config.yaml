@@ -11,7 +11,7 @@ ignoreErrors: error-remote-getjson
 params:
   description: Simple and clean theme for hugo
   logo:
-    url: /images/icon.jpg
+    url: ./images/icon.jpg
 markup:
   highlight:
     codeFences: yes

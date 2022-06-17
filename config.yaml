@@ -1,5 +1,5 @@
 theme: hugo-theme-singular
-baseURL: https://mkmiecik14.github.io/singular
+baseURL: https://mkmiecik14.github.io/singular/
 title: Singular
 copyright: Copyright License [GNU General Public License v2 or later](http://www.gnu.org/licenses/gpl-2.0.html)
 languageCode: en
@@ -11,20 +11,20 @@ ignoreErrors: error-remote-getjson
 params:
   description: Simple and clean theme for hugo
   logo:
-    url: /images/icon.jpg
+    url: images/icon.jpg
 markup:
   highlight:
     codeFences: yes
     noClasses: yes
     style: github
 permalinks:
-  page: /:filename/
-  post: /:year/:month/:day/:filename/
+  page: :filename/
+  post: :year/:month/:day/:filename/
 menu:
   main:
     - identifier: about
       name: About
-      url: /about/
+      url: about/
       weight: 10
 taxonomies:
   category: categories

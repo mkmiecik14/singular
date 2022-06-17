@@ -8,7 +8,6 @@ paginate: 3
 enableInlineShortcodes: yes
 pygmentsCodefences: yes
 ignoreErrors: error-remote-getjson
-relativeURLs: yes
 params:
   description: Simple and clean theme for hugo
   logo:

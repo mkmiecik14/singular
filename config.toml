@@ -1,7 +1,8 @@
 baseurl = "https://mkmiecik14.github.io/singular"
 timeout = 30000
 enableInlineShortcodes = true
-#relativeURLs = true
+relativeURLs = true
+canonifyurls = true
 
 [taxonomies]
 category = "categories"

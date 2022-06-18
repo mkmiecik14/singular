@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Singular</title>
-    <link>https://mkmiecik14.github.io/singular/categories/</link>
+    <link>https://jazzy-conkies-7c3b47.netlify.app/categories/</link>
     <description>Recent content in Categories on Singular</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright License [GNU General Public License v2 or later](http://www.gnu.org/licenses/gpl-2.0.html)</copyright>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://mkmiecik14.github.io/singular/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://jazzy-conkies-7c3b47.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>R</title>
-      <link>https://mkmiecik14.github.io/singular/categories/r/</link>
+      <link>https://jazzy-conkies-7c3b47.netlify.app/categories/r/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://mkmiecik14.github.io/singular/categories/r/</guid>
+      <guid>https://jazzy-conkies-7c3b47.netlify.app/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax</title>
-      <link>https://mkmiecik14.github.io/singular/categories/syntax/</link>
+      <link>https://jazzy-conkies-7c3b47.netlify.app/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mkmiecik14.github.io/singular/categories/syntax/</guid>
+      <guid>https://jazzy-conkies-7c3b47.netlify.app/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://mkmiecik14.github.io/singular/categories/themes/</link>
+      <link>https://jazzy-conkies-7c3b47.netlify.app/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mkmiecik14.github.io/singular/categories/themes/</guid>
+      <guid>https://jazzy-conkies-7c3b47.netlify.app/categories/themes/</guid>
       <description></description>
     </item>
     
